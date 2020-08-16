@@ -17,3 +17,5 @@ IO, Time, OS, Requests
 ## Limitations:
 The program is nicely implemented in Linux because it provides program script integration as system Service which has lots of pros.
 Windows has some issues in integration as service. 
+
+**This Program is in Development so contribue to this code for more features, resolving issues, etc.**
